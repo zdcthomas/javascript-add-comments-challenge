@@ -1,1 +1,1 @@
-# javascript-add-comments-challenge
+# JavaScript Add Comments Challenge
